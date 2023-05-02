@@ -1,11 +1,10 @@
 # bostra-powerups
  Power-ups for MZ-skills in a fallout-eqsue style
 
-   / __ )/ __ \/ ___/_  __/ __ \/   |
-  / __  / / / /\__ \ / / / /_/ / /| |
- / /_/ / /_/ /___/ // / / _, _/ ___ |
-/_____/\____//____//_/ /_/ |_/_/  |_|
-                                     
+
+
+
+
 Add to your qb-core>shared>items.lua file
 ```lua
     ['book_batterup']     = { ['name'] = 'book_batterup', ['label'] = 'Athletics and You', ['weight'] = 100, ['type'] = 'item',
