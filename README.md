@@ -1,7 +1,6 @@
 # bostra-powerups
  Power-ups for MZ-skills in a fallout-eqsue style
 
-      ____  ____  _______________  ___ 
    / __ )/ __ \/ ___/_  __/ __ \/   |
   / __  / / / /\__ \ / / / /_/ / /| |
  / /_/ / /_/ /___/ // / / _, _/ ___ |
