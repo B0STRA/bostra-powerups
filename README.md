@@ -47,14 +47,12 @@ Add to your qb-core>shared>items.lua file
 ensure bostra-powerups
 ```
 
-## Troubleshooting
-If you have any issues, please feel free to contact me on discord: Bostra#0001
-If you are having issues with the script, please ensure you have the dependencies first, if you do and still have issues, please contact me.
-Please ensure you have the listed skills within mz-skills or you change them accordingly to your own.
+## Troubleshooting & Support
+[Mustache Scripts - Discord](https://discord.gg/RVx8nVwcEG)
 
 
 ## Credits
--Jimathy - sourcing his animation and prop methods.
--McKlean - book images.
--MrZainRP - MZ-skills integration.
+[Jimathy - prop / anim code ](https://github.com/jimathy/)<br>
+[McKlean - book images](https://github.com/McKleans-Scripts/mk-items)<br>
+[MrZainRP - MZ-skills integration](https://github.com/MrZainRP/mz-skills)<br>
 
